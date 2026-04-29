@@ -24,11 +24,6 @@ export default function DemoTab() {
             className="absolute inset-0 w-full h-full"
           />
         </div>
-
-        <div className="mt-3 flex items-center justify-between text-xs text-muted font-mono uppercase tracking-[0.15em]">
-          <span>youtube.com/watch?v={YOUTUBE_ID}</span>
-          <span>youtube.com/watch?v={YOUTUBE_ID}</span>
-        </div>
       </div>
 
       <hr className="rule" />

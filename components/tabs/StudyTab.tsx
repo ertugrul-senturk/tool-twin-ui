@@ -14,7 +14,7 @@ export default function StudyTab() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           <Headline value="3"        label="Participants"        tone="ink" />
           <Headline value="100%"     label="Task completion"     tone="green" />
-          <Headline value="1m 48s"   label="Avg. time per shape" tone="blue" />
+          <Headline value="1m 48s"   label="Avg. time per task" tone="blue" />
           <Headline value="4.5 / 5"  label="Mean satisfaction"   tone="red" />
         </div>
       </div>
