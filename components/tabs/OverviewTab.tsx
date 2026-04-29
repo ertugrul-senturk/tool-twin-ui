@@ -106,7 +106,7 @@ export default function OverviewTab() {
           <Pill tone="blue">Meta Quest 3</Pill>
           <Pill>Educational Technology</Pill>
           <Pill tone="red">Pinch Gesture</Pill>
-          <Pill>Unity 2022 LTS</Pill>
+          <Pill>Unity</Pill>
           <Pill>Within-Subjects Study</Pill>
         </div>
       </div>

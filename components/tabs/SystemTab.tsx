@@ -3,7 +3,7 @@ import { SectionHeader, FigureCard } from "@/components/ui";
 const SPECS = [
   {
     aspect: "Platform",
-    choice: "Unity 2022 LTS",
+    choice: "Unity",
     detail: "with the Meta XR Interaction SDK for Quest devices",
   },
   {
