@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python generate_charts.py)",
+      "Bash(py --version)",
+      "Bash(where python*)",
+      "Bash(py generate_charts.py)",
+      "Bash(py *)"
+    ]
+  }
+}
